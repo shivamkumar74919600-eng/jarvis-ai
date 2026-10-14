@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS Assistant</string>
+    <string name="accessibility_description">JARVIS ko WhatsApp auto-send aur phone automation ke liye allow karein.</string>
+</resources>
